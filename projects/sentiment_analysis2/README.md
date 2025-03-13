@@ -1,4 +1,4 @@
-📌 Analisis Sentimen terhadap kebijkan PPKM  
+📌 Analisis Sentimen terhadap kebijkan PPKM menggunakan NAIVE BAYES
 
 🚧 **Dokumentasi sedang dalam proses...** 🚧  
 
